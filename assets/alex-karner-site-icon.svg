@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Alex Karner monogram</title>
+  <desc id="desc">Cream geometric letters A and K on a forest-green rounded square.</desc>
+  <rect x="16" y="16" width="480" height="480" rx="104" fill="#075b4c"/>
+  <g fill="none" stroke="#f7f4ed" stroke-width="42" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M82 382 166 130l84 252M116 282h100"/>
+    <path d="M302 130v252M304 256l122-126M304 256l126 126"/>
+  </g>
+</svg>
