@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aakarner.github.io/alexkarner.com/sitemap.xml
